@@ -1,0 +1,1 @@
+gofinance is REST based API ledger application based on double-entry accounting principles. The DB used for this project is Postgres. I have used Client based idempotency key to make the transaction retry safe.
